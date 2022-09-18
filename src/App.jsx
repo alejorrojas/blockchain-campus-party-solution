@@ -48,12 +48,8 @@ const connectWallet = async()=>{
   return (
     <div className="App">
       <div>
-        <a>
           <img src="/token.png" className="logo" alt="Vite logo" />
-        </a>
-        <a>
           <img src="/react.svg" className="logo react" alt="React logo" />
-        </a>
       </div>
       <h1>Ethereum + React</h1>
       <div className="card">
